@@ -16,7 +16,7 @@ import transformRuntimeNodent from 'fast-async';
 /**
  *
  */
-export default {
+const preset = {
   presets: [
     [presetLatest, { es2015: { loose: true } }],
   ],
@@ -50,3 +50,5 @@ export default {
     }],
   ],
 };
+
+export default preset;
