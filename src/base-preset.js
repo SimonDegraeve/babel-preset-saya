@@ -1,7 +1,6 @@
 /**
  *
  */
-import presetLatest from 'babel-preset-latest';
 import transformFlowStripTypes from 'babel-plugin-transform-flow-strip-types';
 import transformSyntaxFlow from 'babel-plugin-syntax-flow';
 import transformModuleExports from 'babel-plugin-add-module-exports';
@@ -18,7 +17,7 @@ import transformRuntimeNodent from 'fast-async';
  */
 const preset = {
   presets: [
-    [presetLatest, { es2015: { loose: true } }],
+    ['es2015', { 'loose': true }]
   ],
 
   plugins: [
@@ -38,8 +37,7 @@ const preset = {
     // Runtime
     [transformRegenerator, {
       // Async functions are converted to generators by babel-preset-latest
-      ['async']: false, // eslint-disable-line no-useless-computed-key
-                        // See https://github.com/eslint/eslint/issues/7232
+      async: false,
     }],
     [transformRuntimeNodent, {
       compiler: {
