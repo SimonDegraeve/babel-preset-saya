@@ -1,5 +1,5 @@
 # babel-preset-saya
-Opinionated Babel preset
+An opinionated `babel` preset
 
 [![NPM Version][npm-img]][npm-link]
 [![Licence][licence-img]][licence-link]
