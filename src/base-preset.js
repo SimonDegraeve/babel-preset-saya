@@ -17,7 +17,7 @@ import transformRuntimeNodent from 'fast-async';
  */
 const preset = {
   presets: [
-    ['es2015', { 'loose': true }]
+    ['es2015', { loose: true }],
   ],
 
   plugins: [
