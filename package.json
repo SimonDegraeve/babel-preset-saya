@@ -19,13 +19,11 @@
     "saya"
   ],
   "scripts": {
-    "lint": "eslint src",
-    "test": "jest --config .jestrc --coverage",
-    "clean": "rimraf lib",
-    "transpile": "babel --copy-files --out-dir lib --ignore *.test.js,__*__ src",
-    "build": "npm run clean && npm run transpile",
-    "report-coverage": "codecov",
-    "release": "terbit --changelog-preset saya"
+    "lint": "kode lint",
+    "test": "kode test",
+    "build": "kode build",
+    "report-coverage": "kode report-coverage",
+    "release": "kode release"
   },
   "dependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
@@ -41,16 +39,8 @@
     "fast-async": "github:simondegraeve/fast-async#refactoring"
   },
   "devDependencies": {
-    "babel-cli": "^6.16.0",
     "babel-core": "^6.17.0",
-    "babel-jest": "^16.0.0",
-    "babel-preset-latest": "^6.16.0",
-    "codecov": "^1.0.1",
-    "conventional-changelog-saya": "*",
-    "eslint": "^3.7.1",
-    "eslint-config-saya": "*",
-    "jest": "^16.0.1",
-    "rimraf": "^2.5.4",
-    "terbit": "*"
+    "babel-preset-es2015": "^6.16.0",
+    "kode": "^2.0.1"
   }
 }
