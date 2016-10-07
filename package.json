@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-saya",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "An opinionated `babel` preset",
   "license": "MIT",
   "author": "Simon Degrave <simon.degraeve@gmail.com>",
