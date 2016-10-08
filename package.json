@@ -36,7 +36,7 @@
     "babel-plugin-transform-regenerator": "^6.16.1",
     "babel-preset-es2015": "^6.16.0",
     "babel-preset-react": "^6.16.0",
-    "fast-async": "github:simondegraeve/fast-async#refactoring"
+    "fast-async": "github:simondegraeve/fast-async#nodent-v3"
   },
   "devDependencies": {
     "babel-core": "^6.17.0",
