@@ -2,7 +2,6 @@
  *
  */
 import transformFlowStripTypes from 'babel-plugin-transform-flow-strip-types';
-import transformSyntaxFlow from 'babel-plugin-syntax-flow';
 import transformModuleExports from 'babel-plugin-add-module-exports';
 import transformEs3MemberExpressionLiterals from 'babel-plugin-transform-es3-member-expression-literals';
 import transformEs3PropertyLiterals from 'babel-plugin-transform-es3-property-literals';
@@ -24,7 +23,6 @@ const preset = {
   plugins: [
     // Flow
     transformFlowStripTypes,
-    transformSyntaxFlow,
 
     // Legacy
     transformModuleExports,
