@@ -44,7 +44,7 @@ const preset = {
         sourcemap: true,
         promises: true,
       },
-      useModule: 'runtime-nodent',
+      useModule: 'nodent-runtime',
     }],
   ],
 };
