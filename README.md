@@ -29,6 +29,10 @@ Add the preset to your [Babel](http://babeljs.io/) configuration :
 }
 ```
 
+Available configurations:
+- `saya`
+- `saya/react`
+
 
 [npm-img]: https://img.shields.io/npm/v/babel-preset-saya.svg?style=flat-square
 [npm-link]: https://www.npmjs.com/package/babel-preset-saya
