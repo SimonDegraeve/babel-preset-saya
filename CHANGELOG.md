@@ -1,3 +1,9 @@
+<a name="5.1.3"></a>
+## [5.1.3](https://github.com/simondegraeve/babel-preset-saya/compare/v5.1.2...v5.1.3)
+> 2016-10-10
+
+* [24b8140](https://github.com/simondegraeve/babel-preset-saya/commit/24b8140) **Tweak:** Update fast-async config
+
 <a name="5.1.2"></a>
 ## [5.1.2](https://github.com/simondegraeve/babel-preset-saya/compare/v5.1.1...v5.1.2)
 > 2016-10-10
