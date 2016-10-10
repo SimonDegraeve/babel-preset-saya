@@ -1,23 +1,21 @@
 # babel-preset-saya
-An opinionated `babel` preset
+> An opinionated `babel` preset
 
 [![NPM Version][npm-img]][npm-link]
 [![Licence][licence-img]][licence-link]
 [![Build Status][travis-img]][travis-link]
 [![Coverage Status][codecov-img]][codecov-link]
-[![Dependency Status][david-img]][david-link]
+[![Dependency Status][gemnasium-img]][gemnasium-link]
 
 
-## Installation
-
-Using [npm](https://www.npmjs.com):
+## Install
 
 ```
 npm install babel-preset-saya
 ```
 
 
-## Documentation
+## Usage
 
 Add the preset to your [Babel](http://babeljs.io/) configuration :
 
@@ -46,5 +44,5 @@ Available configurations:
 [codecov-img]: https://img.shields.io/codecov/c/github/SimonDegraeve/babel-preset-saya/master.svg?style=flat-square
 [codecov-link]: https://codecov.io/github/SimonDegraeve/babel-preset-saya?branch=master
 
-[david-img]: https://img.shields.io/david/SimonDegraeve/babel-preset-saya.svg?style=flat-square
-[david-link]: https://david-dm.org/SimonDegraeve/babel-preset-saya
+[gemnasium-img]: https://img.shields.io/gemnasium/SimonDegraeve/babel-preset-saya.svg?style=flat-square
+[gemnasium-link]: https://gemnasium.com/github.com/SimonDegraeve/babel-preset-saya

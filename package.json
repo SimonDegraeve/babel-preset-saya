@@ -36,11 +36,22 @@
     "babel-plugin-transform-regenerator": "^6.16.1",
     "babel-preset-es2015": "^6.16.0",
     "babel-preset-react": "^6.16.0",
-    "fast-async": "github:simondegraeve/fast-async#nodent-v3"
+    "fast-async": "github:matatbread/fast-async#2d60c327e7a72bff8b726ba7f53d1d35821fb0c3"
   },
   "devDependencies": {
     "babel-core": "^6.17.0",
     "babel-preset-es2015": "^6.16.0",
     "kode": "^2.2.0"
+  },
+  "babel": {
+    "presets": [
+      "saya"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "saya"
+  },
+  "jest": {
+    "preset": "jest-preset-saya"
   }
 }

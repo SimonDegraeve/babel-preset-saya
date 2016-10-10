@@ -40,11 +40,7 @@ const preset = {
       async: false,
     }],
     [transformRuntimeNodent, {
-      compiler: {
-        sourcemap: true,
-        promises: true,
-      },
-      useModule: 'nodent-runtime',
+      useRuntimeModule: true,
     }],
   ],
 };
