@@ -1,3 +1,9 @@
+<a name="5.1.4"></a>
+## [5.1.4](https://github.com/simondegraeve/babel-preset-saya/compare/v5.1.3...v5.1.4)
+> 2016-10-10
+
+* [aa7a041](https://github.com/simondegraeve/babel-preset-saya/commit/aa7a041) **Dependency:** Update kode
+
 <a name="5.1.3"></a>
 ## [5.1.3](https://github.com/simondegraeve/babel-preset-saya/compare/v5.1.2...v5.1.3)
 > 2016-10-10
