@@ -40,6 +40,15 @@ const preset = {
       async: false,
     }],
     [transformRuntimeNodent, {
+      env: {
+        augmentObject: false,
+        dontMapStackTraces: true,
+        dontInstallRequireHook: true,
+      },
+      compiler: {
+        promises: true,
+        generators: false,
+      },
       useRuntimeModule: true,
     }],
   ],
