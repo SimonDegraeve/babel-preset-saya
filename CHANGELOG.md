@@ -1,38 +1,14 @@
-<a name="5.1.5"></a>
-## [5.1.5](https://github.com/simondegraeve/babel-preset-saya/compare/v5.1.4...v5.1.5)
-> 2016-10-10
+<a name="5.2.0"></a>
+## 5.2.0
+> 2016-10-12
 
-* [30861ee](https://github.com/simondegraeve/babel-preset-saya/commit/30861ee) **Bugfix:** Fix broken build
-
-<a name="5.1.4"></a>
-## [5.1.4](https://github.com/simondegraeve/babel-preset-saya/compare/v5.1.3...v5.1.4)
-> 2016-10-10
-
-* [aa7a041](https://github.com/simondegraeve/babel-preset-saya/commit/aa7a041) **Dependency:** Update kode
-
-<a name="5.1.3"></a>
-## [5.1.3](https://github.com/simondegraeve/babel-preset-saya/compare/v5.1.2...v5.1.3)
-> 2016-10-10
-
-* [24b8140](https://github.com/simondegraeve/babel-preset-saya/commit/24b8140) **Tweak:** Update fast-async config
-
-<a name="5.1.2"></a>
-## [5.1.2](https://github.com/simondegraeve/babel-preset-saya/compare/v5.1.1...v5.1.2)
-> 2016-10-10
-
-* [e7fe7fc](https://github.com/simondegraeve/babel-preset-saya/commit/e7fe7fc) **Tweak:** Cleanup and update fast-async
-
-<a name="5.1.0"></a>
-## [5.1.0](https://github.com/simondegraeve/babel-preset-saya/compare/v5.0.2...v5.1.0)
-> 2016-10-09
-
+* [920cddc](https://github.com/simondegraeve/babel-preset-saya/commit/920cddc) **Bugfix:** Downgrade preset from es2017 to es2015
 * [b8815b7](https://github.com/simondegraeve/babel-preset-saya/commit/b8815b7) **Feature:** Add support for export extensions
 * [7fa5f5a](https://github.com/simondegraeve/babel-preset-saya/commit/7fa5f5a) **Tweak:** Remove useless syntax-flow plugin
 * [ce46602](https://github.com/simondegraeve/babel-preset-saya/commit/ce46602) **Tweak:** Use oficial nodent-runtime
-
-<a name="5.0.1"></a>
-## [5.0.1](https://github.com/simondegraeve/babel-preset-saya/compare/v5.0.0...v5.0.1)
-> 2016-10-07
-
-* [920cddc](https://github.com/simondegraeve/babel-preset-saya/commit/920cddc) **Bugfix:** Downgrade preset from es2017 to es2015
+* [e7fe7fc](https://github.com/simondegraeve/babel-preset-saya/commit/e7fe7fc) **Tweak:** Cleanup and update fast-async
+* [24b8140](https://github.com/simondegraeve/babel-preset-saya/commit/24b8140) **Tweak:** Update fast-async config
+* [aa7a041](https://github.com/simondegraeve/babel-preset-saya/commit/aa7a041) **Dependency:** Update kode
+* [30861ee](https://github.com/simondegraeve/babel-preset-saya/commit/30861ee) **Bugfix:** Fix broken build
+* [48edb1b](https://github.com/simondegraeve/babel-preset-saya/commit/48edb1b) **Dependency:** Update fast-async
 
