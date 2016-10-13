@@ -1,3 +1,10 @@
+<a name="5.2.2"></a>
+## [5.2.2](https://github.com/simondegraeve/babel-preset-saya/compare/v5.2.1...v5.2.2)
+> 2016-10-13
+
+* [b54a546](https://github.com/simondegraeve/babel-preset-saya/commit/b54a546) **Bugfix:** Restore package.json
+* [3134712](https://github.com/simondegraeve/babel-preset-saya/commit/3134712) **Dependency:** Update kode
+
 <a name="5.2.1"></a>
 ## [5.2.1](https://github.com/simondegraeve/babel-preset-saya/compare/v5.2.0...v5.2.1)
 > 2016-10-13
