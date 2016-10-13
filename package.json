@@ -1,12 +1,20 @@
 {
   "name": "babel-preset-saya",
-  "version": "5.2.0",
+  "version": "5.2.1",
   "description": "An opinionated `babel` preset",
   "license": "MIT",
-  "author": "Simon Degrave <simon.degraeve@gmail.com>",
-  "repository": "github:SimonDegraeve/babel-preset-saya",
+  "author": {
+    "name": "Simon Degrave",
+    "email": "simon.degraeve@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simondegraeve/babel-preset-saya.git"
+  },
   "homepage": "https://github.com/SimonDegraeve/babel-preset-saya#readme",
-  "bugs": "https://github.com/SimonDegraeve/babel-preset-saya/issues",
+  "bugs": {
+    "url": "https://github.com/SimonDegraeve/babel-preset-saya/issues"
+  },
   "main": "index.js",
   "files": [
     "lib",
@@ -54,5 +62,7 @@
   },
   "jest": {
     "preset": "jest-preset-saya"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "babel-preset-saya@5.2.0"
 }

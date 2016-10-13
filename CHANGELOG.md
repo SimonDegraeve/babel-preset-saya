@@ -1,5 +1,11 @@
+<a name="5.2.1"></a>
+## [5.2.1](https://github.com/simondegraeve/babel-preset-saya/compare/v5.2.0...v5.2.1)
+> 2016-10-13
+
+* [a805cea](https://github.com/simondegraeve/babel-preset-saya/commit/a805cea) **Dependency:** Update code
+
 <a name="5.2.0"></a>
-## 5.2.0
+## [5.2.0](https://github.com/simondegraeve/babel-preset-saya/compare/920cddc...v5.2.0)
 > 2016-10-12
 
 * [920cddc](https://github.com/simondegraeve/babel-preset-saya/commit/920cddc) **Bugfix:** Downgrade preset from es2017 to es2015
