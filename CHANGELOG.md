@@ -1,3 +1,9 @@
+<a name="5.2.3"></a>
+## [5.2.3](https://github.com/simondegraeve/babel-preset-saya/compare/v5.2.2...v5.2.3)
+> 2016-10-27
+
+* [db10b17](https://github.com/simondegraeve/babel-preset-saya/commit/db10b17) **Tweak:** Update dependencies
+
 <a name="5.2.2"></a>
 ## [5.2.2](https://github.com/simondegraeve/babel-preset-saya/compare/v5.2.1...v5.2.2)
 > 2016-10-13
